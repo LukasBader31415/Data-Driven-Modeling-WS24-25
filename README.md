@@ -58,15 +58,10 @@ Das Projekt besteht aus folgenden Meilensteinen:
 2. **Regelmäßige Updates**: Aktualisiert regelmäßig eure Dateien und dokumentiert den Fortschritt in der README-Datei eures Gruppenordners.
 3. **Branching** (optional): Nutzt Branches für größere Änderungen oder Meilensteine, die ihr später über Pull Requests in den `main`-Branch integrieren könnt.
 
-### Für die Kursleitung
-
-1. **Überprüfung der Arbeiten**: Die Kursleitung wird die Projekte regelmäßig überprüfen und Feedback geben.
-2. **Zusammenführung der Arbeiten**: Nach erfolgreicher Abnahme können die Projekte in den Hauptbranch übernommen werden.
-
 ## Hinweise und Anforderungen
 
 - **Deadline**: Projekte müssen bis **[Datum]** eingereicht werden.
-- **Dokumentation**: Jede Gruppe muss eine vollständige Dokumentation ihres Projekts bereitstellen, einschließlich einer Projektbeschreibung, der Analyseergebnisse und einer Reflexion der Arbeit.
+- **Dokumentation**: Jede Gruppe muss eine vollständige Dokumentation ihres Projekts bereitstellen, einschließlich einer Projektbeschreibung, der Analyseergebnisse und einer Reflexion der Arbeit mit Work-Distribution-Matrix.
 - **Abgabeverfahren**: Projekte werden durch **[Beschreibung des Abgabeverfahrens]** eingereicht.
 
 ## Kontakt und Hilfe
