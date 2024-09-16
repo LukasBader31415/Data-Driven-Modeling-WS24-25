@@ -23,6 +23,22 @@ Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerha
 - `Code/`: Python-Skripte oder andere relevante Code-Dateien
 - `README.md`: Eine Datei, in der der Fortschritt und die Ideen dokumentiert werden
 
+- 
+### Beschreibung der Hauptordner
+
+- **data/**: Dieser Ordner enthält alle Datensätze. Die Daten sind unterteilt in:
+  - `external/`: Daten und Statistiken, die außerhalb des Projekts gesammelt wurden.
+  - `processed/`: Verarbeitete Daten, die während des Projekts erzeugt wurden.
+  - `raw/`: Rohe, unverarbeitete Daten im Ausgangszustand.
+  
+- **notebooks/**: Hier werden die Jupyter-Notebooks abgelegt, in denen Analysen und Visualisierungen durchgeführt werden.
+
+- **src/**: Der Ordner, der den Code für die Verarbeitung, Analyse und Modellierung enthält.
+
+- **tests/**: Hier können automatisierte Tests für den Code abgelegt werden (optional).
+
+
+
 ## Projektbeschreibung
 
 ### Ziel des Kurses
