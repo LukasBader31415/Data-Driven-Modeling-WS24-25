@@ -9,6 +9,7 @@ In diesem Repository hat jede Gruppe ihren eigenen Bereich, um ihre Projekte zu 
 ### Struktur des Repositories
 
 Die Struktur des Repositories ist wie folgt:
+
 /Gruppe_A/  
 /Gruppe_B/  
 /Gruppe_C/  
