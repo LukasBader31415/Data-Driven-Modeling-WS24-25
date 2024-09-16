@@ -1,67 +1,64 @@
 # Data Mining WS24/25
 
-Willkommen im Repository für die Data Science Projekte des Kurses **[Data Mining WS24-25]** an der **[TH Köln]**. Dieses Repository dient als Arbeitsbereich für die verschiedenen Gruppen des Kurses, um ihre Projekte zu entwickeln, dokumentieren und mit der Kursleitung sowie den anderen Teilnehmern zu teilen.
+Welcome to the repository for the Data Science projects of the course **[Data Mining WS24-25]** at **[TH Köln]**. This repository serves as a workspace for the different groups of the course to develop, document, and share their projects with the course instructors and other participants.
 
-## Übersicht
+## Overview
 
-In diesem Repository hat jede Gruppe ihren eigenen Bereich, um ihre Projekte zu bearbeiten. Jede Gruppe ist verantwortlich für die Verwaltung ihrer Dateien, Code und Dokumentation innerhalb des zugewiesenen Ordners.
+In this repository, each group has its own section to work on their projects. Each group is responsible for managing their files, code, and documentation within their assigned folder.
 
-### Struktur des Repositories
+### Repository Structure
 
-Die Struktur des Repositories ist wie folgt:
+The structure of the repository is as follows:
 
-/Gruppe_A/  
-/Gruppe_B/  
-/Gruppe_C/  
+/Group_A/  
+/Group_B/  
+/Group_C/  
 /...
 
+Each group is assigned a folder named after their group and works within that folder. The following components should be found in each folder:
 
-Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerhalb dieses Ordners. In jedem Ordner sollten folgende Bestandteile zu finden sein:
+### Description of Main Folders
 
-### Beschreibung der Hauptordner
-
-- **data/**: Dieser Ordner enthält alle Datensätze. Die Daten sind unterteilt in:
-  - `external/`: Daten und Statistiken, die außerhalb des Projekts gesammelt wurden.
-  - `processed/`: Verarbeitete Daten, die während des Projekts erzeugt wurden.
-  - `raw/`: Rohe, unverarbeitete Daten im Ausgangszustand.
+- **data/**: This folder contains all datasets. The data is divided into:
+  - `external/`: Data and statistics collected from external sources.
+  - `processed/`: Processed data generated during the project.
+  - `raw/`: Raw, unprocessed data in its original state.
   
-- **notebooks/**: Hier werden die Jupyter-Notebooks abgelegt, in denen Analysen und Visualisierungen durchgeführt werden.
+- **notebooks/**: Jupyter notebooks are stored here, containing analyses and visualizations.
 
-- **code/**: Python-Skripte oder andere relevante Code-Dateien
+- **code/**: Python scripts or other relevant code files.
 
-- **README.md**: Eine Datei, in der der Fortschritt und die Ideen dokumentiert werden
+- **README.md**: A file where progress and ideas are documented.
 
+## Project Description
 
-## Projektbeschreibung
+### Course Objective
 
-### Ziel des Kurses
+The course **[Data Mining]** aims to provide students with an in-depth understanding of Data Science methods and tools. Students work in groups on a real-world Data Science project, applying the knowledge gained from lectures in practice.
 
-Der Kurs **[Data Mining]** hat das Ziel, den Studierenden einen tiefen Einblick in die Methoden und Tools des Data Science zu geben. Die Studierenden arbeiten in Gruppen an einem realen Data Sience Projekt und setzen das in der Vorlesung erlernte Wissen praktisch um.
+### Project Milestones
 
-### Themen der Projekte
-
-Das Projekt besteht aus folgenden Meilensteinen:
+The project consists of the following milestones:
 - [M1: Business Understanding]
 - [M2: Data Understanding]
 - [M3: Data Preparation]
 - [M4: Modelling]
 - [M5: Evaluation]
 
-## Nutzung des Repositories
+## Repository Usage
 
-### Für Gruppenmitglieder
+### For Group Members
 
-1. **Euer Bereich**: Nutzt den euch zugewiesenen Gruppenordner, um eure Projekte zu organisieren.
-2. **Regelmäßige Updates**: Aktualisiert regelmäßig eure Dateien und dokumentiert den Fortschritt in der README-Datei eures Gruppenordners.
-3. **Branching** (optional): Nutzt Branches für größere Änderungen oder Meilensteine, die ihr später über Pull Requests in den `main`-Branch integrieren könnt.
+1. **Your Section**: Use your assigned group folder to organize your projects.
+2. **Regular Updates**: Regularly update your files and document progress in the README file within your group folder.
+3. **Branching** (optional): Use branches for significant changes or milestones, which can later be merged into the `main` branch via Pull Requests.
 
-## Hinweise und Anforderungen
+## Guidelines and Requirements
 
-- **Deadline**: Projekte müssen bis **[Datum]** eingereicht werden.
-- **Dokumentation**: Jede Gruppe muss eine vollständige Dokumentation ihres Projekts bereitstellen, einschließlich einer Projektbeschreibung, der Analyseergebnisse und einer Reflexion der Arbeit mit Work-Distribution-Matrix.
-- **Abgabeverfahren**: Projekte werden durch **[Beschreibung des Abgabeverfahrens]** eingereicht.
+- **Deadline**: Projects must be submitted by **[Date]**.
+- **Documentation**: Each group must provide complete documentation of their project, including a project description, analysis results, and a reflection on the work with a work-distribution matrix.
+- **Submission Process**: Projects will be submitted through **[submission procedure]**.
 
-## Kontakt und Hilfe
+## Contact and Support
 
-Bei Fragen oder Problemen könnt ihr euch an **[Lukas Bader]** wenden oder im Repository eine **Issue** erstellen.
-
+For questions or issues, you can reach out to **[Lukas Bader]** or create an **Issue** in the repository.
