@@ -1,4 +1,4 @@
-# Data Science Kursprojekte - [Kursname]
+# Data Mining WS24/25
 
 Willkommen im Repository für die Data Science Projekte des Kurses **[Data Mining WS24-25]** an der **[TH Köln]**. Dieses Repository dient als Arbeitsbereich für die verschiedenen Gruppen des Kurses, um ihre Projekte zu entwickeln, dokumentieren und mit der Kursleitung sowie den anderen Teilnehmern zu teilen.
 
