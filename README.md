@@ -18,12 +18,6 @@ Die Struktur des Repositories ist wie folgt:
 
 Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerhalb dieses Ordners. In jedem Ordner sollten folgende Bestandteile zu finden sein:
 
-- `Notebooks/`: Jupyter-Notebooks oder andere interaktive Analysewerkzeuge
-- `Data/`: Datensätze, die für das Projekt verwendet werden
-- `Code/`: Python-Skripte oder andere relevante Code-Dateien
-- `README.md`: Eine Datei, in der der Fortschritt und die Ideen dokumentiert werden
-
-- 
 ### Beschreibung der Hauptordner
 
 - **data/**: Dieser Ordner enthält alle Datensätze. Die Daten sind unterteilt in:
@@ -33,9 +27,11 @@ Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerha
   
 - **notebooks/**: Hier werden die Jupyter-Notebooks abgelegt, in denen Analysen und Visualisierungen durchgeführt werden.
 
-- **src/**: Der Ordner, der den Code für die Verarbeitung, Analyse und Modellierung enthält.
+- **code/**: Python-Skripte oder andere relevante Code-Dateien
 
-- **tests/**: Hier können automatisierte Tests für den Code abgelegt werden (optional).
+- **tests/**: Hier können automatisierte Tests für den Code abgelegt werden (optional)
+
+- **README.md**: Eine Datei, in der der Fortschritt und die Ideen dokumentiert werden
 
 
 
@@ -43,14 +39,16 @@ Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerha
 
 ### Ziel des Kurses
 
-Der Kurs **[Kursname]** hat das Ziel, den Studierenden einen tiefen Einblick in die Methoden und Tools des Data Science zu geben. Die Studierenden arbeiten in Gruppen an realen oder simulierten Datenprojekten und setzen das erlernte Wissen praktisch um.
+Der Kurs **[Data Mining]** hat das Ziel, den Studierenden einen tiefen Einblick in die Methoden und Tools des Data Science zu geben. Die Studierenden arbeiten in Gruppen an einem realen Data Sience Projekt und setzen das in der Vorlesung erlernte Wissen praktisch um.
 
 ### Themen der Projekte
 
-Jede Gruppe wählt ein Thema, das sich auf folgende Bereiche konzentrieren kann:
-- [Themenblock 1]
-- [Themenblock 2]
-- [Themenblock 3]
+Das Projekt besteht aus folgenden Meilensteinen:
+- [M1: Business Understanding]
+- [M2: Data Understanding]
+- [M3: Data Preparation]
+- [M4: Modelling]
+- [M5: Evaluation]
 
 ## Nutzung des Repositories
 
