@@ -19,7 +19,7 @@ Die Struktur des Repositories ist wie folgt:
 Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerhalb dieses Ordners. In jedem Ordner sollten folgende Bestandteile zu finden sein:
 
 - `Notebooks/`: Jupyter-Notebooks oder andere interaktive Analysewerkzeuge
-- `Data/`: Datensätze, die für das Projekt verwendet werden (falls öffentlich zugänglich)
+- `Data/`: Datensätze, die für das Projekt verwendet werden
 - `Code/`: Python-Skripte oder andere relevante Code-Dateien
 - `README.md`: Eine Datei, in der der Fortschritt und die Ideen dokumentiert werden
 
