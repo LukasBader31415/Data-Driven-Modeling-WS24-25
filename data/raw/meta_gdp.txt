@@ -1,0 +1,9 @@
+Field			Field Description
+FIPS			County Geoidentification Code 
+GeoName			Name of State or County, State
+TableName
+LineCode		
+IndustryClassification	NAICS Code
+Description		Industry description
+Unit			Unit of GDP
+2022			Value of GDP for year 2022

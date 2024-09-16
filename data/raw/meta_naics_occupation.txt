@@ -1,0 +1,9 @@
+Field			Field Description
+FIPS			County Geoidentification Code 
+State_GEOID		State Geoidentification Code
+naics			North American Industry Classification System (NAICS) code for the given industry 
+NAICS_TITLE		North American Industry Classification System (NAICS) title for the given industry 
+emp_total_county_naics	Total of all employees in a county for a NAICS code
+OCC_CODE		SOC occupation code
+OCC_TITLE		SOC occupation description 
+emp_occupation		Number of employees for the combination of industry (NAICS) and occupation (SOC)
