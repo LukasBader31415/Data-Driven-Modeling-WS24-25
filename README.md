@@ -1,6 +1,6 @@
 # Data Science Kursprojekte - [Kursname]
 
-Willkommen im Repository für die Data Science Projekte des Kurses **[Kursname]** an der **[Universität/Hochschule]**. Dieses Repository dient als Arbeitsbereich für die verschiedenen Gruppen des Kurses, um ihre Projekte zu entwickeln, dokumentieren und mit der Kursleitung sowie den anderen Teilnehmern zu teilen.
+Willkommen im Repository für die Data Science Projekte des Kurses **[Data Mining WS24-25]** an der **[TH Köln]**. Dieses Repository dient als Arbeitsbereich für die verschiedenen Gruppen des Kurses, um ihre Projekte zu entwickeln, dokumentieren und mit der Kursleitung sowie den anderen Teilnehmern zu teilen.
 
 ## Übersicht
 
@@ -57,5 +57,5 @@ Jede Gruppe wählt ein Thema, das sich auf folgende Bereiche konzentrieren kann:
 
 ## Kontakt und Hilfe
 
-Bei Fragen
+Bei Fragen oder Problemen könnt ihr euch an **[Lukas Bader]** wenden oder im Repository eine **Issue** erstellen.
 
