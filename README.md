@@ -29,10 +29,7 @@ Jede Gruppe erhält einen Ordner mit dem Namen ihrer Gruppe und arbeitet innerha
 
 - **code/**: Python-Skripte oder andere relevante Code-Dateien
 
-- **tests/**: Hier können automatisierte Tests für den Code abgelegt werden (optional)
-
 - **README.md**: Eine Datei, in der der Fortschritt und die Ideen dokumentiert werden
-
 
 
 ## Projektbeschreibung
