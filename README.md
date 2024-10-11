@@ -1,4 +1,4 @@
-# Data Mining WS24/25
+# Data Driven Modeling WS24/25
 
 Welcome to the repository for the Data Science projects of the course **[Data Driven Modeling WS2425]** at **[TH Köln]**. This repository serves as a workspace for the different groups of the course to develop, document, and share their projects with the course instructors and other participants.
 
