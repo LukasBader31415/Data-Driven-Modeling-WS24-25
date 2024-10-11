@@ -8,14 +8,7 @@ In this repository, each group has its own section to work on their projects. Ea
 
 ### Repository Structure
 
-The structure of the repository is as follows:
-
-/Group_A/  
-/Group_B/  
-/Group_C/  
-/...
-
-Each group is assigned a folder named after their group and works within that folder. The following components should be found in each folder:
+Each group will later receive a folder named after its group and will work within this folder. The following components should be found in each folder:
 
 ### Description of Main Folders
 
@@ -34,7 +27,7 @@ Each group is assigned a folder named after their group and works within that fo
 
 ### Course Objective
 
-The course **[Data Mining]** aims to provide students with an in-depth understanding of Data Science methods and tools. Students work in groups on a real-world Data Science project, applying the knowledge gained from lectures in practice.
+The course **[Data Driven Modeling WS2425]** aims to provide students with an in-depth understanding of Data Science methods and tools. Students work in groups on a real-world Data Science project, applying the knowledge gained from lectures in practice.
 
 ### Project Milestones
 
@@ -46,6 +39,9 @@ The project consists of the following milestones:
 - [M5: Evaluation]
 
 ## Repository Usage
+
+This is a **preliminary repository** with the data and basic information for the project. You will be assigned a working repository once your groups have been defined.
+Everything below is valid after the formation of the groups. 
 
 ### For Group Members
 
